@@ -1,0 +1,12 @@
+# Terraformのステートファイル (絶対アップNG)
+*.tfstate
+*.tfstate.*
+
+# 初期化フォルダ & 変数ファイル
+.terraform/
+*.tfvars
+*.tfvars.json
+
+# ビルド成果物 & 不要ファイル
+*.zip
+.DS_Store
