@@ -1,4 +1,10 @@
-# Git Bash
+# teraformのコマンド
+teraform init
+teraform plan
+teraform apply
+terraform destroy
+
+# cognit 及び lamdaの検証手順
 ## AWSにログイン
 aws sso login
 
