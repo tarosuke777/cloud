@@ -1,7 +1,7 @@
-# teraformのコマンド
-teraform init
-teraform plan
-teraform apply
+# terraformのコマンド
+terraform init
+terraform plan
+terraform apply
 terraform destroy
 
 # cognit 及び lamdaの検証手順
